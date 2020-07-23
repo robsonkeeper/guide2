@@ -1,0 +1,595 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V3.1.0.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 23/07/2020 02:42:57
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: C:\Users\Robson\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
+[  Info  ] Checking License ..
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[  Debug ] 
+[  Info  ] found: C:\Users\Robson\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\clarotv.com.br.EK.ini -- Revision 02
+[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\Robson\AppData\Local\WebGrab+Plus\lineup.net.br.ini -- Revision 03
+[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\Robson\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\tvplus.com.br.E.ini -- Revision 09
+[  Info  ] encrypted in 'new (V3)' mode
+[  Info  ] input file C:\Users\Robson\AppData\Local\WebGrab+Plus\guide.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 181 - out of - 181 - channels for 9 day(s)
+[  Debug ] 
+[  Info  ] (   1/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=GLOBOSP) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=BANDEIRANTES) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=REDETV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SBT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TVCULTURA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=REDERECORD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TVGAZETA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/181 ) LINEUP.NET.BR -- chan. (xmltv_id=BANDRIO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/181 ) LINEUP.NET.BR -- chan. (xmltv_id=GLOBORIO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/181 ) LINEUP.NET.BR -- chan. (xmltv_id=RECORDTVRIO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/181 ) LINEUP.NET.BR -- chan. (xmltv_id=REDETVRIO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/181 ) LINEUP.NET.BR -- chan. (xmltv_id=SBTRIO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/181 ) LINEUP.NET.BR -- chan. (xmltv_id=TVMAX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=COMBATE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=PREMIERECLUBES) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=PREMIERE2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  17/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=PREMIERE3) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  18/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=PREMIERE4) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  19/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=PREMIERE5) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  20/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=PREMIERE6) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  21/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=PREMIERE7) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  22/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SPORTV3) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  23/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SPORTV2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  24/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SPORTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  25/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FOXSPORTS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  26/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FOXSPORTS2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  27/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=ESPNEXTRAHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  28/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=ESPNBRASIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  29/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=ESPN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  30/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=ESPN+) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  31/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=BANDSPORTS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  32/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=OFFHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FISHTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=WOOHOO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=HBO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=HBO2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/181 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=HBOPLUS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  38/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=HBOFamily) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  39/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=HBOSignature) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  40/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=MAXUP) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  41/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=MAX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  42/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=MAXPRIMEHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  43/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TELECINEPREMIUM) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  44/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TELECINEACTION) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  45/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TELECINETOUCH) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  46/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TELECINEFUN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  47/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TELECINEPIPOCA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  48/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TELECINECULT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  49/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=RECORDNEWS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=GLOBONEWS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  51/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=BANDNEWS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  52/181 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CNNBRASIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=BBCWorld) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  54/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DEUTSCHEWELLE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  55/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CNNI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=BLOOMBERG) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=RAI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  58/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TV5MONDE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  59/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TVESPANHA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  60/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NHK) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  61/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SIC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  62/181 ) LINEUP.NET.BR -- chan. (xmltv_id=CGTN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  63/181 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CNNE) -- mode Force
+[Error   ] Unable to update channel CNNE
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from CNNE
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] (  63/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=VH1MEGAHITS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  64/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=VH1HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  65/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=MULTISHOW) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  66/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=MTVLIVEHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  67/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=MTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  68/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=MUSICBOXBRAZIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  69/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=BIS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  70/181 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TRACEBrazuca) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  71/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TVCMARA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  72/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TVBRASIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  73/181 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVBRASIL2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  74/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TVJUSTIA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  75/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=ASSEMBLEIALEGISLATIVA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  76/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TVESCOLA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  77/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TVSENADO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  78/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CANALCOMUNITARIO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  79/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SBN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  80/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TVNOVOTEMPO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  81/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=REDEVIDA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  82/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CANONOVA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  83/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=APARECIDA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  84/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=BOAVONTADETV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  85/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=RITTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  86/181 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PAIETERNO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  87/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TERRAVIVA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  88/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CANALRURAL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  89/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CANALDOBOI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  90/181 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=AGROMAIS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  91/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=Cartoon Network) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  92/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DISNEYXD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  93/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DISNEYJUNIOR) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  94/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TOONCAST) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  95/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=BABYTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  96/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DISCOVERYKIDS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  97/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=GLOOB) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  98/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DISNEY) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  99/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NICKELODEON) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 100/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CARTOONNETWORK) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 101/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NICKJR) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 102/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=BOOMERANG) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 103/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TVRTIMBUM) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 104/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NATGEOKIDS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 105/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=ZOOMOO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 106/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SEXTREME) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 107/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=VENUS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 108/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SEXYHOT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 109/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=PLAYBOYTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 110/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=UNIVERSAL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 111/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FOX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 112/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=WARNER) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 113/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SONY) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 114/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 115/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=AXN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 116/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=STUDIOUNIVERSAL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 117/181 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PARAMOUNT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 118/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TCM) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 119/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CANALBRASIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 120/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TNT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 121/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=MEGAPIX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 122/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SPACE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 123/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CINEMAX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 124/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=PRIMEBOXBRAZIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 125/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TBS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 126/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=COMEDYCENTRAL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 127/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=AE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 128/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=LIV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 129/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=Syfy) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 130/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=LIFETIME) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 131/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TNTSERIES) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 132/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FOXPREMIUM1HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 133/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FOXPREMIUM2HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 134/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=AMC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 135/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FILMARTS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 136/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FOXLIFE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 137/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=EUROCHANNEL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 138/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NATGEOWILDHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 139/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=LIKEHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 140/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FASHIONTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 141/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TRAVELBOXBRAZIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 142/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=GNT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 143/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=Viva HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 144/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=GLOBOSATHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 145/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=E) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 146/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=TRAVELANDLIVINGCHANNEL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 147/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=ARTE1) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 148/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FOODNETWORKHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 149/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DISCOVERYHH) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 150/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CURTA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 151/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DOGTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 152/181 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=HGTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 153/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FOX LIFE HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 154/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=FUTURA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 155/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NATIONALGEOGRAPHIC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 156/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=ANIMALPLANET) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 157/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=THEHISTORYCHANNEL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 158/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DISCOVERYTURBO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 159/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DISCOVERYSCIENCE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 160/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DISCOVERYCHANNEL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 161/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DISCOVERYTHEATER) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 162/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=DISCOVERYWORLD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 163/181 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=H2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 164/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=VIVA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 165/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=LOVENATUREHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 166/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SMITHSONIANHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 167/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=MEGATV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 168/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=POLISHOP) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 169/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SHOPTIME) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 170/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=REDE21) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 171/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=IDEALTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 172/181 ) LINEUP.NET.BR -- chan. (xmltv_id=TVWA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 173/181 ) LINEUP.NET.BR -- chan. (xmltv_id=TVTHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 174/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NETTVHD) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 175/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NETTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 176/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NETTTVHD) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 177/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NOW) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 178/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=NETTV3) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 179/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CLIMATEMPO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 180/181 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=CARTOONGAMES) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 40381 shows in 181 channels
+[  Debug ] 0 updated shows
+[  Debug ] 40381 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 23/07/2020 04:02:38 done in 1h 19m 41s

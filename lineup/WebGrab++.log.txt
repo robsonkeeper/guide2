@@ -1,0 +1,46 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V3.1.0.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 10/07/2020 22:03:03
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: C:\Users\Robson\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
+[  Info  ] Checking License ..
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[  Debug ] 
+[  Info  ] found: C:\Users\Robson\AppData\Local\WebGrab+Plus\lineup.net.br.ini -- Revision 03
+[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\Robson\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\clarotv.com.br.EK.ini -- Revision 02
+[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\Robson\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\netcombo.com.br.ini -- Revision 01
+[  Info  ] input file C:\Users\Robson\AppData\Local\WebGrab+Plus\guide.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 173 - out of - 173 - channels for 17 day(s)
+[  Debug ] 
+[  Info  ] (   1/173 ) LINEUP.NET.BR -- chan. (xmltv_id=GLOBOSP) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/173 ) LINEUP.NET.BR -- chan. (xmltv_id=REDERECORD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/173 ) LINEUP.NET.BR -- chan. (xmltv_id=BANDEIRANTES) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/173 ) LINEUP.NET.BR -- chan. (xmltv_id=SBT) -- mode Force

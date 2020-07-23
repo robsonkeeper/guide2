@@ -1,0 +1,3264 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBOSP">
+    <display-name lang="pt">Globo</display-name>
+    <icon src="https://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="REDERECORD">
+    <display-name lang="pt">Record</display-name>
+    <icon src="https://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BANDEIRANTES">
+    <display-name lang="pt">Band</display-name>
+    <icon src="https://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RedeTV">
+    <display-name lang="pt">RedeTV!</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="tvGazeta">
+    <display-name lang="pt">Gazeta</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="tvCultura">
+    <display-name lang="pt">Cultura</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BandRio">
+    <display-name lang="pt">Band Rio</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GloboRio">
+    <display-name lang="pt">Globo Rio</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTVRio">
+    <display-name lang="pt">RecordTV Rio</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RedeTVRio">
+    <display-name lang="pt">RedeTV! Rio</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBTRio">
+    <display-name lang="pt">SBT Rio</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVMax">
+    <display-name lang="pt">TV Max</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="PremiereClubes">
+    <display-name lang="pt">Premiere Clubes</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere2">
+    <display-name lang="pt">Premiere 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere3">
+    <display-name lang="pt">Premiere 3</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere4">
+    <display-name lang="pt">Premiere 4</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere5">
+    <display-name lang="pt">Premiere 5</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere6">
+    <display-name lang="pt">Premiere 6</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Premiere7">
+    <display-name lang="pt">Premiere 7</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SporTV2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SporTV3">
+    <display-name lang="pt">SporTV 3</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxSports">
+    <display-name lang="pt">Fox Sports</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FOXSports2">
+    <display-name lang="pt">FOX Sports 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPN+">
+    <display-name lang="pt">ESPN 2</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPNBrasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ESPNExtrahd">
+    <display-name lang="pt">ESPN Extra</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BandSports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FishTV">
+    <display-name lang="pt">Fish TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Woohoo">
+    <display-name lang="pt">Woohoo</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Offhd">
+    <display-name lang="pt">Off</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBO2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBOPLUS">
+    <display-name lang="pt">HBO PLUS</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBOFamily">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HBOSignature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MAXUP">
+    <display-name lang="pt">Hbo Pop</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MAX">
+    <display-name lang="pt">Hbo Mundi</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MAXPRIMEHD">
+    <display-name lang="pt">hBO Xtreme</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TelecinePremium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TelecineAction">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TelecineTouch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TelecineFun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TelecinePipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TelecineCult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CNNBrasil">
+    <display-name lang="pt">CNN Brasil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GloboNews">
+    <display-name lang="pt">GloboNews</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BandNews">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordNews">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="pt">Bloomberg</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BBCWorld">
+    <display-name lang="pt">BBC World News</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="DEUTSCHEWELLE">
+    <display-name lang="pt">DW (Deutsch+)</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CNNI">
+    <display-name lang="pt">CNN International</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="pt">CGTN</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NHK">
+    <display-name lang="pt">NHK</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rai">
+    <display-name lang="pt">Rai</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC Internacional</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV5Monde">
+    <display-name lang="pt">TV5</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVESPANHA">
+    <display-name lang="pt">TVE</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MTVLiveHD">
+    <display-name lang="pt">MTV Live HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MusicBoxBrazil">
+    <display-name lang="pt">Music Box Brazil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="VH1HD">
+    <display-name lang="pt">VH1 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="VH1MegaHits">
+    <display-name lang="pt">VH1 MegaHits</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVBrasil">
+    <display-name lang="pt">TV Brasil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVBrasil2">
+    <display-name lang="pt">TV Brasil 2</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVCmara">
+    <display-name lang="pt">TV Câmara</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVJustia">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVSenado">
+    <display-name lang="pt">TV Senado</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ASSEMBLEIALEGISLATIVA">
+    <display-name lang="pt">Canal Legislativo</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CanalComunitario">
+    <display-name lang="pt">Canal Comunitário</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BoaVontadeTV">
+    <display-name lang="pt">Boa Vontade TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CANONOVA">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RedeVida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RITTV">
+    <display-name lang="pt">RIT TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBN">
+    <display-name lang="pt">SBN</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Aparecida">
+    <display-name lang="pt">TV Aparecida</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVNovoTempo">
+    <display-name lang="pt">TV Novo Tempo</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="PaiEterno">
+    <display-name lang="pt">TV Pai Eterno</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CanaldoBoi">
+    <display-name lang="pt">Canal do Boi</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CanalRural">
+    <display-name lang="pt">Canal Rural</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TerraViva">
+    <display-name lang="pt">Terra Viva</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AgroMais">
+    <display-name lang="pt">AgroMais</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BabyTV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DiscoveryKids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DisneyJunior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DisneyXD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CartoonNetwork">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">Gloob </display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NatGeoKids">
+    <display-name lang="pt">NatGeo Kids</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NickJr">
+    <display-name lang="pt">Nick Jr.</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVRTimBum">
+    <display-name lang="pt">TV Rá-Tim-Bum</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ZooMoo">
+    <display-name lang="pt">ZooMoo hd</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Venus">
+    <display-name lang="pt">Venus</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Sextreme">
+    <display-name lang="pt">Sextreme</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SexyHot">
+    <display-name lang="pt">SexyHot</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="PlayboyTV">
+    <display-name lang="pt">PlayboyTV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="StudioUniversal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Universal">
+    <display-name lang="pt">Universal TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Warner">
+    <display-name lang="pt">Warner Channel</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Canal Sony</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="ComedyCentral">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AE">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="LIV">
+    <display-name lang="pt">ID</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="pt">Syfy</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="pt">Lifetime HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNTSeries">
+    <display-name lang="pt">TNT Séries HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxLife">
+    <display-name lang="pt">Fox Life</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CanalBrasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="PrimeBoxBrazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Paramount">
+    <display-name lang="pt">Paramount Network</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Eurochannel">
+    <display-name lang="pt">Eurochannel</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FilmArts">
+    <display-name lang="pt">Film&amp;Arts</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoxPremium1HD">
+    <display-name lang="pt">Fox Premium 1 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FoxPremium2HD">
+    <display-name lang="pt">Fox Premium 2 HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="pt">HGTV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DiscoveryChannel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DiscoveryScience">
+    <display-name lang="pt">Discovery Science</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DiscoveryTheater">
+    <display-name lang="pt">Discovery Theater</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DiscoveryTurbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DiscoveryWorld">
+    <display-name lang="pt">Discovery World</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DiscoveryHH">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBOSATHD">
+    <display-name lang="pt">Mais Globosat</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="E">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TRAVELANDLIVINGCHANNEL">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Arte1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NationalGeographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NatgeoWildhd">
+    <display-name lang="pt">Nat geo Wild</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="AnimalPlanet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Curta">
+    <display-name lang="pt">Curta!</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Futura">
+    <display-name lang="pt">Futura</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="LIKEHD">
+    <display-name lang="pt">Like</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FashionTV">
+    <display-name lang="pt">Fashion TV </display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FoodNetworkhd">
+    <display-name lang="pt">Food Network</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TravelBoxBrazil">
+    <display-name lang="pt">Travel Box Brazil</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="THEHISTORYCHANNEL">
+    <display-name lang="pt">History</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">History 2 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="LoveNaturehd">
+    <display-name lang="pt">Love Nature</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Smithsonianhd">
+    <display-name lang="pt">Smithsonian Channel</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DogTV">
+    <display-name lang="pt">Dog TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="MegaTV">
+    <display-name lang="pt">MegaTV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Shoptime">
+    <display-name lang="pt">Shoptime</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Polishop">
+    <display-name lang="pt">Polishop TV</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Rede21">
+    <display-name lang="pt">Rede 21</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVWA">
+    <display-name lang="pt">TV WA</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TVT">
+    <display-name lang="pt">TVT</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Claro">
+    <display-name lang="pt">Claro (uso interno)</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal do Cliente Claro">
+    <display-name lang="pt">Canal do Cliente Claro</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NOW">
+    <display-name lang="pt">NOW</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NETTV">
+    <display-name lang="pt">Claro recomenda</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NETTV3">
+    <display-name lang="pt">Canal de Cliente</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20200710000000 -0300" stop="20200710004300 -0300" channel="GLOBOSP">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+    <desc lang="pt">Enquanto confronta Andrews sobre a rotina dos residentes, Claire se junta a Melendez para tratar um paciente que sofre de infertilidade. Shaun promete cuidar de Glassman.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20200710004300 -0300" stop="20200710013800 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710013800 -0300" stop="20200710021700 -0300" channel="GLOBOSP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710021700 -0300" stop="20200710025500 -0300" channel="GLOBOSP">
+    <title lang="pt">Segredos em Família</title>
+    <desc lang="pt">Há 10 anos, Adam Warren desapareceu. Agora, ele finalmente retornou, mas nem todos os membros de sua família estão sabendo lidar bem com isso.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20200710025500 -0300" stop="20200710040000 -0300" channel="GLOBOSP">
+    <title lang="pt">Corujão: Substitutos</title>
+    <desc lang="pt">Um mundo futurista onde os humanos vivem seguros em suas casas e interagem somente através de robôs substitutos. Mas quando ocorre o primeiro assassinato em anos, um agente da FBI deverá deixar seu posto para investigar o caso.(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200710040000 -0300" stop="20200710060000 -0300" channel="GLOBOSP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710060000 -0300" stop="20200710083000 -0300" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Praça</title>
+    <desc lang="pt">Horário Reservado ao jornalismo local.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200710083000 -0300" stop="20200710100000 -0300" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710100000 -0300" stop="20200710120000 -0300" channel="GLOBOSP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710120000 -0300" stop="20200710132500 -0300" channel="GLOBOSP">
+    <title lang="pt">Praça TV</title>
+    <sub-title lang="pt">1ª Edição</sub-title>
+    <desc lang="pt">Telejornal focado nas principais notícias locais e no jornalismo comunitário. No ar desde 30 de março de 1998, é exibido em duas edições diárias, de segunda a sábado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710132500 -0300" stop="20200710145800 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710145800 -0300" stop="20200710164100 -0300" channel="GLOBOSP">
+    <title lang="pt">Sessão da Tarde: A Montanha Enfeitiçada</title>
+    <desc lang="pt">Para proteger dois adolescentes que possuem poderes sobrenaturais, um taxista de Las Vegas entra na busca pela montanha enfeitiçada.(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200710164100 -0300" stop="20200710180100 -0300" channel="GLOBOSP">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E55</episode-num>
+  </programme>
+  <programme start="20200710180100 -0300" stop="20200710182800 -0300" channel="GLOBOSP">
+    <title lang="pt">Malhação: Viva a Diferença E69</title>
+    <desc lang="pt">Keyla se preocupa com Tato. A professora de matemática sugere que Ellen seja a representante do colégio nas olimpíadas.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E69</episode-num>
+  </programme>
+  <programme start="20200710182800 -0300" stop="20200710190800 -0300" channel="GLOBOSP">
+    <title lang="pt">Novo Mundo E89</title>
+    <desc lang="pt">Domitila pede que Rosa avise a Dom Pedro sobre o ataque. Dom Pedro decide dar um título de nobreza a Domitila.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E89</episode-num>
+  </programme>
+  <programme start="20200710190800 -0300" stop="20200710193900 -0300" channel="GLOBOSP">
+    <title lang="pt">Praça TV</title>
+    <sub-title lang="pt">2ª Edição</sub-title>
+    <desc lang="pt">Telejornal focado nas principais notícias locais e no jornalismo comunitário. No ar desde 30 de março de 1998, é exibido em duas edições diárias, de segunda a sábado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710193900 -0300" stop="20200710203000 -0300" channel="GLOBOSP">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Arthur se oferece para emprestar dinheiro a Gilda. Lu vê Rafael e Lili juntos e ofende o casal.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E89</episode-num>
+  </programme>
+  <programme start="20200710203000 -0300" stop="20200710213500 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710213500 -0300" stop="20200710221600 -0300" channel="GLOBOSP">
+    <title lang="pt">Fina Estampa</title>
+    <desc lang="pt">Danielle tenta convencer Glória a não contar para Beatriz que ela é a mãe biológica da filha de Esther.(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">S1 E95</episode-num>
+  </programme>
+  <programme start="20200710221600 -0300" stop="20200710230200 -0300" channel="GLOBOSP">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Com apresentação de Glória Maria e Sandra Annenberg, o 'Globo Repórter' é o jornalístico documental que vai ao ar nas noites de sexta-feira.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710230200 -0300" stop="20200710235000 -0300" channel="GLOBOSP">
+    <title lang="pt">Sessão Globoplay: S.W.A.T.</title>
+    <desc lang="pt">Uma queixa de conduta imprópria contra Hondo o tira da ativa, e Deacon intervém para liderar a equipe na busca de uma quadrilha de assaltantes.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20200710235000 -0300" stop="20200711005100 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711005100 -0300" stop="20200711013000 -0300" channel="GLOBOSP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711013000 -0300" stop="20200711021600 -0300" channel="GLOBOSP">
+    <title lang="pt">Segredos em Família</title>
+    <desc lang="pt">Suspeitas e segredos ameaçam a família Warren, enquanto o detetive Myers está determinado a corrigir os erros do passado.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20200711021600 -0300" stop="20200711040200 -0300" channel="GLOBOSP">
+    <title lang="pt">Corujão: A Casa Caiu</title>
+    <desc lang="pt">Advogado divorciado marca encontro com uma mulher pela internet, mas em seu lugar aparece ex-presidiária desbocada, querendo que ele atue em sua defesa.(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200711040200 -0300" stop="20200711055000 -0300" channel="GLOBOSP">
+    <title lang="pt">Corujão II: Deus é Brasileiro</title>
+    <desc lang="pt">Deus resolve tirar umas férias, mas precisa encontrar um substituto para ficar em seu lugar enquanto estiver fora. Ele resolve procurá-lo no Brasil.(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711055000 -0300" stop="20200711065000 -0300" channel="GLOBOSP">
+    <title lang="pt">Como Será?</title>
+    <desc lang="pt">Reportagens sobre cidadania, educação, ecologia, trabalho e inovação, com apresentação de Sandra Annenberg.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711065000 -0300" stop="20200711120000 -0300" channel="GLOBOSP">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Ana Furtado, André Marques, Cissa Guimarães, Patrícia Poeta e Tiago Leifert comandam programa de variedades das manhãs de sábado, ao vivo.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711120000 -0300" stop="20200711130500 -0300" channel="GLOBOSP">
+    <title lang="pt">Praça TV</title>
+    <sub-title lang="pt">1ª Edição</sub-title>
+    <desc lang="pt">Telejornal focado nas principais notícias locais e no jornalismo comunitário. No ar desde 30 de março de 1998, é exibido em duas edições diárias, de segunda a sábado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711130500 -0300" stop="20200711135600 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711135600 -0300" stop="20200711154400 -0300" channel="GLOBOSP">
+    <title lang="pt">Sessão de Sábado</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200711154400 -0300" stop="20200711182500 -0300" channel="GLOBOSP">
+    <title lang="pt">Caldeirão do Huck</title>
+    <desc lang="pt">Programa de auditório apresentado por Luciano Huck, o Caldeirão traz matérias especiais, atrações musicais e concursos, além de quadros de sucesso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711182500 -0300" stop="20200711190700 -0300" channel="GLOBOSP">
+    <title lang="pt">Novo Mundo</title>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711190700 -0300" stop="20200711193800 -0300" channel="GLOBOSP">
+    <title lang="pt">Praça TV</title>
+    <sub-title lang="pt">2ª Edição</sub-title>
+    <desc lang="pt">Telejornal focado nas principais notícias locais e no jornalismo comunitário. No ar desde 30 de março de 1998, é exibido em duas edições diárias, de segunda a sábado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711193800 -0300" stop="20200711203000 -0300" channel="GLOBOSP">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711203000 -0300" stop="20200711213800 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711213800 -0300" stop="20200711222800 -0300" channel="GLOBOSP">
+    <title lang="pt">Fina Estampa</title>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711222800 -0300" stop="20200711230100 -0300" channel="GLOBOSP">
+    <title lang="pt">Diário de Um Confinado</title>
+    <desc lang="pt">'Diário de um Confinado' é uma crônica sobre o dia a dia de um cidadão que, de repente, se vê obrigado a tocar a vida dentro de seu apartamento.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711230100 -0300" stop="20200712004500 -0300" channel="GLOBOSP">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712004500 -0300" stop="20200712022700 -0300" channel="GLOBOSP">
+    <title lang="pt">Supercine</title>
+    <desc lang="pt">Supercine Supercine mostra longas-metragens de sucesso, muitas vezes inéditos na TV e que normalmente tratam do relacionamento humano.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200712022700 -0300" stop="20200712040700 -0300" channel="GLOBOSP">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200712040700 -0300" stop="20200712054000 -0300" channel="GLOBOSP">
+    <title lang="pt">Corujão II</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200712054000 -0300" stop="20200712063600 -0300" channel="GLOBOSP">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Mais antigo programa da Rede Globo, a Santa Missa foi transmitida pela primeira vez em 4 de fevereiro de 1968 e hoje é celebrada semanalmente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712063600 -0300" stop="20200712070300 -0300" channel="GLOBOSP">
+    <title lang="pt">Globo Comunidade</title>
+    <desc lang="pt">Susana Naspolini apresenta o telejornal que aborda assuntos como qualidade de vida e urbanismo, com prestação de serviços.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712070300 -0300" stop="20200712074000 -0300" channel="GLOBOSP">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712074000 -0300" stop="20200712083800 -0300" channel="GLOBOSP">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712083800 -0300" stop="20200712090000 -0300" channel="GLOBOSP">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">O Auto Esporte traz as principais notícias sobre automóveis, lançamentos nacionais e importados, avaliações, testes e comparativos exclusivos e dicas de manutenção de carros e motos.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712090000 -0300" stop="20200712101000 -0300" channel="GLOBOSP">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">Além de transmitir partidas e campeonatos ao vivo, o programa semanal apresenta os destaques do mundo esportivo, entrevistas e reportagens especiais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712101000 -0300" stop="20200712114300 -0300" channel="GLOBOSP">
+    <title lang="pt">Fórmula 1</title>
+    <desc lang="pt">Exibição de corridas de Fórmula 1.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20200712114300 -0300" stop="20200712120500 -0300" channel="GLOBOSP">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">Além de transmitir partidas e campeonatos ao vivo, o programa semanal apresenta os destaques do mundo esportivo, entrevistas e reportagens especiais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712120500 -0300" stop="20200712132300 -0300" channel="GLOBOSP">
+    <title lang="pt">Tamanho Família</title>
+    <desc lang="pt">Tamanho Família vai trazer as relações familiares dos famosos para a TV nas tardes de domingo para todo mundo discutir e brincar junto.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712132300 -0300" stop="20200712141900 -0300" channel="GLOBOSP">
+    <title lang="pt">Pré-Estreia Globoplay</title>
+    <sub-title lang="pt">Sandy e Junior: A História</sub-title>
+    <desc lang="pt">Baseado em um vasto arquivo musical e pessoal, o projeto conta a história de sucesso de uma das duplas mais amadas do Brasil.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Biografia</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712141900 -0300" stop="20200712155700 -0300" channel="GLOBOSP">
+    <title lang="pt">Temperatura Máxima</title>
+    <desc lang="pt">Caracteriza-se por reapresentar longas-metragens que fizeram sucesso em outras sessões de cinema da Globo. Temperatura Máxima estreou dia 3 de janeiro de 1989.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200712155700 -0300" stop="20200712180500 -0300" channel="GLOBOSP">
+    <title lang="pt">Campeões de Bilheteria</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200712180500 -0300" stop="20200712200000 -0300" channel="GLOBOSP">
+    <title lang="pt">Domingão do Faustão</title>
+    <desc lang="pt">Programa de auditório apresentado por Fausto Silva, que reúne nomes da televisão brasileira, atrações musicais e quadros variados.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712200000 -0300" stop="20200712222600 -0300" channel="GLOBOSP">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Tadeu Schmidt e Poliana Abritta.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712222600 -0300" stop="20200713001500 -0300" channel="GLOBOSP">
+    <title lang="pt">Domingo Maior</title>
+    <desc lang="pt">Uma das sessões de cinema mais antigas da Rede Globo. Desde 1979, a atração caracteriza-se por apresentar longas-metragens de sucesso, com temas de ação, aventura e romance, para um público distinto.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200713001500 -0300" stop="20200713015600 -0300" channel="GLOBOSP">
+    <title lang="pt">Cinemaço</title>
+    <desc lang="pt">No 'Cinemaço', os cinéfilos da madrugada poderão relembrar grandes sucessos das últimas décadas, com elencos estrelados, logo após o 'Domingo Maior'.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713015600 -0300" stop="20200713040000 -0300" channel="GLOBOSP">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200713040000 -0300" stop="20200713060000 -0300" channel="GLOBOSP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713060000 -0300" stop="20200713083000 -0300" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Praça</title>
+    <desc lang="pt">Horário Reservado ao jornalismo local.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713083000 -0300" stop="20200713100000 -0300" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713100000 -0300" stop="20200713120000 -0300" channel="GLOBOSP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713120000 -0300" stop="20200713132500 -0300" channel="GLOBOSP">
+    <title lang="pt">Praça TV</title>
+    <sub-title lang="pt">1ª Edição</sub-title>
+    <desc lang="pt">Telejornal focado nas principais notícias locais e no jornalismo comunitário. No ar desde 30 de março de 1998, é exibido em duas edições diárias, de segunda a sábado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713132500 -0300" stop="20200713145800 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713145800 -0300" stop="20200713163000 -0300" channel="GLOBOSP">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713163000 -0300" stop="20200713174800 -0300" channel="GLOBOSP">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713174800 -0300" stop="20200713182100 -0300" channel="GLOBOSP">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713182100 -0300" stop="20200713190200 -0300" channel="GLOBOSP">
+    <title lang="pt">Novo Mundo</title>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713190200 -0300" stop="20200713193200 -0300" channel="GLOBOSP">
+    <title lang="pt">Praça TV</title>
+    <sub-title lang="pt">2ª Edição</sub-title>
+    <desc lang="pt">Telejornal focado nas principais notícias locais e no jornalismo comunitário. No ar desde 30 de março de 1998, é exibido em duas edições diárias, de segunda a sábado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713193200 -0300" stop="20200713203000 -0300" channel="GLOBOSP">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713203000 -0300" stop="20200713213600 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713213600 -0300" stop="20200713221700 -0300" channel="GLOBOSP">
+    <title lang="pt">Fina Estampa</title>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713221700 -0300" stop="20200714003100 -0300" channel="GLOBOSP">
+    <title lang="pt">Tela Quente</title>
+    <desc lang="pt">Tela Quente tem como principal objetivo oferecer ao telespectador, com regularidade, longas-metragens que foram grandes atrações do cinema ou produzidos especialmente para TV.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714003100 -0300" stop="20200714012600 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714012600 -0300" stop="20200714020700 -0300" channel="GLOBOSP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714020700 -0300" stop="20200714024600 -0300" channel="GLOBOSP">
+    <title lang="pt">Segredos em Família</title>
+    <sub-title lang="pt">S1</sub-title>
+    <desc lang="pt">Uma comunidade é abalada quando o filho de um político, que supostamente havia sido assassinado anos atrás, volta para casa.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200714024600 -0300" stop="20200714040000 -0300" channel="GLOBOSP">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200714040000 -0300" stop="20200714060000 -0300" channel="GLOBOSP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714060000 -0300" stop="20200714083000 -0300" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Praça</title>
+    <desc lang="pt">Horário Reservado ao jornalismo local.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200714083000 -0300" stop="20200714100000 -0300" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714100000 -0300" stop="20200714120000 -0300" channel="GLOBOSP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714120000 -0300" stop="20200714132500 -0300" channel="GLOBOSP">
+    <title lang="pt">Praça TV</title>
+    <sub-title lang="pt">1ª Edição</sub-title>
+    <desc lang="pt">Telejornal focado nas principais notícias locais e no jornalismo comunitário. No ar desde 30 de março de 1998, é exibido em duas edições diárias, de segunda a sábado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714132500 -0300" stop="20200714145600 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714145600 -0300" stop="20200714163700 -0300" channel="GLOBOSP">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714163700 -0300" stop="20200714175800 -0300" channel="GLOBOSP">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714175800 -0300" stop="20200714182400 -0300" channel="GLOBOSP">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714182400 -0300" stop="20200714190300 -0300" channel="GLOBOSP">
+    <title lang="pt">Novo Mundo</title>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714190300 -0300" stop="20200714193300 -0300" channel="GLOBOSP">
+    <title lang="pt">Praça TV</title>
+    <sub-title lang="pt">2ª Edição</sub-title>
+    <desc lang="pt">Telejornal focado nas principais notícias locais e no jornalismo comunitário. No ar desde 30 de março de 1998, é exibido em duas edições diárias, de segunda a sábado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714193300 -0300" stop="20200714203000 -0300" channel="GLOBOSP">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714203000 -0300" stop="20200714213600 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714213600 -0300" stop="20200714223000 -0300" channel="GLOBOSP">
+    <title lang="pt">Fina Estampa</title>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714223000 -0300" stop="20200714230200 -0300" channel="GLOBOSP">
+    <title lang="pt">Cine Holliúdy</title>
+    <desc lang="pt">A chegada de Marylin e Maria do Socorro a Pitombas pode antecipar um problema pelo qual Francisgleydisson não queria ter de passar: a batalha entre o Cine Holliúdy, principal atrativo cultural da cidade cearense, e a TV.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714230200 -0300" stop="20200714234800 -0300" channel="GLOBOSP">
+    <title lang="pt">Manifest</title>
+    <sub-title lang="pt">S1</sub-title>
+    <desc lang="pt">Um avião comercial desaparece inexplicavelmente em um voo transoceânico e reaparece cinco anos depois de ser considerado perdido no mar.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200714234800 -0300" stop="20200715004200 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715004200 -0300" stop="20200715012200 -0300" channel="GLOBOSP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o programa recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715012200 -0300" stop="20200715020800 -0300" channel="GLOBOSP">
+    <title lang="pt">Segredos em Família</title>
+    <sub-title lang="pt">S1</sub-title>
+    <desc lang="pt">Uma comunidade é abalada quando o filho de um político, que supostamente havia sido assassinado anos atrás, volta para casa.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200715020800 -0300" stop="20200715040000 -0300" channel="GLOBOSP">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20200715040000 -0300" stop="20200715060000 -0300" channel="GLOBOSP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715060000 -0300" stop="20200715083000 -0300" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Praça</title>
+    <desc lang="pt">Horário Reservado ao jornalismo local.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200715083000 -0300" stop="20200715100000 -0300" channel="GLOBOSP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715100000 -0300" stop="20200715120000 -0300" channel="GLOBOSP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715120000 -0300" stop="20200715132500 -0300" channel="GLOBOSP">
+    <title lang="pt">Praça TV</title>
+    <sub-title lang="pt">1ª Edição</sub-title>
+    <desc lang="pt">Telejornal focado nas principais notícias locais e no jornalismo comunitário. No ar desde 30 de março de 1998, é exibido em duas edições diárias, de segunda a sábado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715132500 -0300" stop="20200715145500 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Maria Júlia Coutinho.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715145500 -0300" stop="20200715163100 -0300" channel="GLOBOSP">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715163100 -0300" stop="20200715180200 -0300" channel="GLOBOSP">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <date>2016</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715180200 -0300" stop="20200715182900 -0300" channel="GLOBOSP">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715182900 -0300" stop="20200715190600 -0300" channel="GLOBOSP">
+    <title lang="pt">Novo Mundo</title>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715190600 -0300" stop="20200715193700 -0300" channel="GLOBOSP">
+    <title lang="pt">Praça TV</title>
+    <sub-title lang="pt">2ª Edição</sub-title>
+    <desc lang="pt">Telejornal focado nas principais notícias locais e no jornalismo comunitário. No ar desde 30 de março de 1998, é exibido em duas edições diárias, de segunda a sábado.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715193700 -0300" stop="20200715203000 -0300" channel="GLOBOSP">
+    <title lang="pt">Totalmente Demais</title>
+    <desc lang="pt">Temos os bastidores de uma redação de revista feminina e todo o universo que a cerca, como o glamour, as festas e viagens, as vaidades, as parcerias e sabotagens.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715203000 -0300" stop="20200715213400 -0300" channel="GLOBOSP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715213400 -0300" stop="20200715222100 -0300" channel="GLOBOSP">
+    <title lang="pt">Fina Estampa</title>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715222100 -0300" stop="20200716002500 -0300" channel="GLOBOSP">
+    <title lang="pt">Cinema Especial</title>
+    <desc lang="pt">Sessão de filmes Rede Globo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710003000 -0300" stop="20200710004500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200710004500 -0300" stop="20200710020000 -0300" channel="REDERECORD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Comandado por Renato Cardoso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200710020000 -0300" stop="20200710030000 -0300" channel="REDERECORD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200710030000 -0300" stop="20200710050000 -0300" channel="REDERECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710050000 -0300" stop="20200710063000 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710063000 -0300" stop="20200710070000 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710070000 -0300" stop="20200710084500 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710084500 -0300" stop="20200710100000 -0300" channel="REDERECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710100000 -0300" stop="20200710114500 -0300" channel="REDERECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710114500 -0300" stop="20200710115000 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200710115000 -0300" stop="20200710151500 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200710151500 -0300" stop="20200710160000 -0300" channel="REDERECORD">
+    <title lang="pt">A Escrava Isaura E196</title>
+    <desc lang="pt">Leôncio prende Isaura. Francisco sai e os deixam sozinhos. Álvaro parte atrás de Isaura junto com os quilombolas e escravos libertos.(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E196</episode-num>
+  </programme>
+  <programme start="20200710160000 -0300" stop="20200710164000 -0300" channel="REDERECORD">
+    <title lang="pt">Os Mutantes E48</title>
+    <desc lang="pt">Taveira tenta atacar Esmeralda, que escapa. Eric aponta a arma para Ernesto, que se desespera ao ver Esmeralda caída no chão.(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E48</episode-num>
+  </programme>
+  <programme start="20200710164000 -0300" stop="20200710164500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200710164500 -0300" stop="20200710175500 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710175500 -0300" stop="20200710180000 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200710180000 -0300" stop="20200710185000 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710185000 -0300" stop="20200710194500 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710194500 -0300" stop="20200710204500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710204500 -0300" stop="20200710213000 -0300" channel="REDERECORD">
+    <title lang="pt">Apocalipse E59</title>
+    <desc lang="pt">Lúcio é rendido por Nicanor. Nicanor desarma Lúcio. Nicanor diz que Lúcio fez bem em sumir com Samael e que ele mesmo vai terminar o que começou trinta anos atrás.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E59</episode-num>
+  </programme>
+  <programme start="20200710213000 -0300" stop="20200710223000 -0300" channel="REDERECORD">
+    <title lang="pt">Jesus E64</title>
+    <desc lang="pt">Os porqueiros questionam Jesus. Caius descobre que Deborah se casará com Tiago Justo. Deborah fica mexida ao ver o bebê de uma jovem moça. Ami teme ser encontrado.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+    <episode-num system="onscreen">E64</episode-num>
+  </programme>
+  <programme start="20200710223000 -0300" stop="20200711003000 -0300" channel="REDERECORD">
+    <title lang="pt">Super Tela: Circuito Fechado</title>
+    <desc lang="pt">Um ataque terrorista com bombas em Londres desperta a atenção de todo o país, e logo um suspeito é preso. À medida que os advogados dele avançam na investigação, descobrem que o governo está envolvido no caso.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country lang="pt">Inglaterra/EUA</country>
+  </programme>
+  <programme start="20200711003000 -0300" stop="20200711004500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200711004500 -0300" stop="20200711020000 -0300" channel="REDERECORD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Comandado por Renato Cardoso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200711020000 -0300" stop="20200711030000 -0300" channel="REDERECORD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200711030000 -0300" stop="20200711060000 -0300" channel="REDERECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711060000 -0300" stop="20200711070000 -0300" channel="REDERECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711070000 -0300" stop="20200711120000 -0300" channel="REDERECORD">
+    <title lang="pt">Fala Brasil Especial</title>
+    <desc lang="pt">Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711120000 -0300" stop="20200711130000 -0300" channel="REDERECORD">
+    <title lang="pt">The Love School</title>
+    <sub-title lang="pt">A Escola do Amor</sub-title>
+    <desc lang="pt">A chegada dos "professores" à telinha traz conselhos eficazes, para ajudar solteiros e comprometidos a alcançarem ou manterem o relacionamento feliz e driblarem as adversidades do cotidiano.(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comportamento</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711130000 -0300" stop="20200711150000 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Edição de Sábado</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711150000 -0300" stop="20200711170000 -0300" channel="REDERECORD">
+    <title lang="pt">Cine Aventura: Amor Sem Fim</title>
+    <desc lang="pt">Jade Butterfield tem tudo. Inteligente e de família rica, um futuro brilhante espera pela jovem. Durante uma viagem, ela se apaixona pelo sedutor David Elliott, garoto humilde e problemático.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200711170000 -0300" stop="20200711194500 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta Edição de Sábado</title>
+    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200711194500 -0300" stop="20200711210000 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record Edição de Sábado</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711210000 -0300" stop="20200711223000 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta Edição de Sábado</title>
+    <desc lang="pt">O Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200711223000 -0300" stop="20200712000000 -0300" channel="REDERECORD">
+    <title lang="pt">Show do Tom</title>
+    <desc lang="pt">As engraçadas faces de Tom Cavalcante nos personagens mais divertidos da TV e um elenco que não deixa você parar de rir. Além de se divertir com os personagens, você conhece as muitas outras facetas desse grande showman.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712000000 -0300" stop="20200712004000 -0300" channel="REDERECORD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Drama de um médico em um ambiente bastante inusitado: o corpo de bombeiros. A trama acompanhará os homens e mulheres que trabalham no departamento de bombeiros da cidade de Chicago.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200712004000 -0300" stop="20200712011500 -0300" channel="REDERECORD">
+    <title lang="pt">Chicago Fire</title>
+    <desc lang="pt">Drama de um médico em um ambiente bastante inusitado: o corpo de bombeiros. A trama acompanhará os homens e mulheres que trabalham no departamento de bombeiros da cidade de Chicago.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200712011500 -0300" stop="20200712021500 -0300" channel="REDERECORD">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712021500 -0300" stop="20200712060000 -0300" channel="REDERECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712060000 -0300" stop="20200712070000 -0300" channel="REDERECORD">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712070000 -0300" stop="20200712083000 -0300" channel="REDERECORD">
+    <title lang="pt">Templo de Salomão</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200712083000 -0300" stop="20200712090000 -0300" channel="REDERECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712090000 -0300" stop="20200712100000 -0300" channel="REDERECORD">
+    <title lang="pt">Record Kids</title>
+    <sub-title lang="pt">Desenhos Bíblicos</sub-title>
+    <desc lang="pt">Para animar a manhã de seu fim de semana, muita diversão para toda a família com os desenhos da "Record Kids".(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712100000 -0300" stop="20200712110000 -0300" channel="REDERECORD">
+    <title lang="pt">Record Kids</title>
+    <sub-title lang="pt">Todo Mundo Odeia o Chris</sub-title>
+    <desc lang="pt">As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712110000 -0300" stop="20200712133000 -0300" channel="REDERECORD">
+    <title lang="pt">Record Kids</title>
+    <sub-title lang="pt">Todo Mundo Odeia o Chris</sub-title>
+    <desc lang="pt">As manhãs de domingo ficam mais divertidas com o pássaro mais sem noção dos desenhos animados. Não perca!(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712133000 -0300" stop="20200712151500 -0300" channel="REDERECORD">
+    <title lang="pt">Cine Maior: A Múmia</title>
+    <desc lang="pt">No Egito, Eve é uma arqueóloga que nunca saiu da biblioteca, mas deseja descobrir uma cidade perdida no deserto. Ela conhece Rick, um soldado desertor que sabe a localização.(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200712151500 -0300" stop="20200712194500 -0300" channel="REDERECORD">
+    <title lang="pt">Hora do Faro</title>
+    <desc lang="pt">Faro recebe convidados que superaram muitas dificuldades para dar carinho e atenção àqueles que não tinham e, ainda, um casal que se adora, mas precisa superar algumas barreiras para ficar junto.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712194500 -0300" stop="20200712231500 -0300" channel="REDERECORD">
+    <title lang="pt">Domingo Espetacular</title>
+    <desc lang="pt">Uma revista eletrônica para a família brasileira que faz a diferença ao ir fundo nos temas que mais chamaram a atenção durante a semana.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712231500 -0300" stop="20200713001500 -0300" channel="REDERECORD">
+    <title lang="pt">Câmera Record</title>
+    <desc lang="pt">Reportagens especiais que abordam assuntos de interesse dos brasileiros e movimentam o país.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713001500 -0300" stop="20200713011500 -0300" channel="REDERECORD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Quando o disfarce da detetive Lovato é descoberto, os CSIs precisam investigar a gangue latina na qual ela trabalhava infiltrada.(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country lang="pt">EUA/Canadá</country>
+    <episode-num system="onscreen">S9 E9</episode-num>
+  </programme>
+  <programme start="20200713011500 -0300" stop="20200713050000 -0300" channel="REDERECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713050000 -0300" stop="20200713063000 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713063000 -0300" stop="20200713070000 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713070000 -0300" stop="20200713084500 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713084500 -0300" stop="20200713100000 -0300" channel="REDERECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713100000 -0300" stop="20200713114500 -0300" channel="REDERECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713114500 -0300" stop="20200713115000 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713115000 -0300" stop="20200713151500 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713151500 -0300" stop="20200713160000 -0300" channel="REDERECORD">
+    <title lang="pt">A Escrava Isaura</title>
+    <date>2004</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713160000 -0300" stop="20200713164000 -0300" channel="REDERECORD">
+    <title lang="pt">Os Mutantes</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713164000 -0300" stop="20200713164500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713164500 -0300" stop="20200713175500 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713175500 -0300" stop="20200713180000 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713180000 -0300" stop="20200713185000 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713185000 -0300" stop="20200713194500 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713194500 -0300" stop="20200713204500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713204500 -0300" stop="20200713213000 -0300" channel="REDERECORD">
+    <title lang="pt">Apocalipse</title>
+    <desc lang="pt">Uma emocionante história que mistura amor, mistério e redenção ao retratar um dos enredos mais polêmicos da Bíblia: o fim dos tempos.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713213000 -0300" stop="20200713223000 -0300" channel="REDERECORD">
+    <title lang="pt">Jesus</title>
+    <desc lang="pt">A trama irá mostrar a vida e época de Jesus como se estivéssemos lá, no momento em que Ele andava pela Terra.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713223000 -0300" stop="20200713234500 -0300" channel="REDERECORD">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <desc lang="pt">Em Aeroporto: Área Restrita, o público entra em contato com os bastidores das operações de segurança e com a rotina dos agentes que lidam com os mais diferentes casos dentro do aeroporto de Guarulhos, em São Paulo.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713234500 -0300" stop="20200714003000 -0300" channel="REDERECORD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">A série acompanha o dia-a-dia de um grupo de médicos e enfermeiros de um hospital de Chicago. Entre eles, a Dra. Hannah Tremble, uma fria e brilhante cirurgiã; a diretora Sharon Goodwin.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200714003000 -0300" stop="20200714004500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200714004500 -0300" stop="20200714014500 -0300" channel="REDERECORD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Comandado por Renato Cardoso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200714014500 -0300" stop="20200714024500 -0300" channel="REDERECORD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200714024500 -0300" stop="20200714050000 -0300" channel="REDERECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714050000 -0300" stop="20200714063000 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714063000 -0300" stop="20200714070000 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714070000 -0300" stop="20200714084500 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714084500 -0300" stop="20200714100000 -0300" channel="REDERECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714100000 -0300" stop="20200714114500 -0300" channel="REDERECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714114500 -0300" stop="20200714115000 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200714115000 -0300" stop="20200714151500 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200714151500 -0300" stop="20200714160000 -0300" channel="REDERECORD">
+    <title lang="pt">A Escrava Isaura</title>
+    <date>2004</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714160000 -0300" stop="20200714164000 -0300" channel="REDERECORD">
+    <title lang="pt">Os Mutantes</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714164000 -0300" stop="20200714164500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200714164500 -0300" stop="20200714175500 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714175500 -0300" stop="20200714180000 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200714180000 -0300" stop="20200714185000 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714185000 -0300" stop="20200714194500 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714194500 -0300" stop="20200714204500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714204500 -0300" stop="20200714213000 -0300" channel="REDERECORD">
+    <title lang="pt">Apocalipse</title>
+    <desc lang="pt">Uma emocionante história que mistura amor, mistério e redenção ao retratar um dos enredos mais polêmicos da Bíblia: o fim dos tempos.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714213000 -0300" stop="20200714223000 -0300" channel="REDERECORD">
+    <title lang="pt">Jesus</title>
+    <desc lang="pt">A trama irá mostrar a vida e época de Jesus como se estivéssemos lá, no momento em que Ele andava pela Terra.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714223000 -0300" stop="20200714234500 -0300" channel="REDERECORD">
+    <title lang="pt">Cine Record Especial</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714234500 -0300" stop="20200715003000 -0300" channel="REDERECORD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">A série acompanha o dia-a-dia de um grupo de médicos e enfermeiros de um hospital de Chicago. Entre eles, a Dra. Hannah Tremble, uma fria e brilhante cirurgiã; a diretora Sharon Goodwin.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200715003000 -0300" stop="20200715004500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200715004500 -0300" stop="20200715014500 -0300" channel="REDERECORD">
+    <title lang="pt">Inteligência e Fé</title>
+    <desc lang="pt">Comandado por Renato Cardoso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200715014500 -0300" stop="20200715024500 -0300" channel="REDERECORD">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200715024500 -0300" stop="20200715050000 -0300" channel="REDERECORD">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715050000 -0300" stop="20200715063000 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715063000 -0300" stop="20200715070000 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715070000 -0300" stop="20200715084500 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715084500 -0300" stop="20200715100000 -0300" channel="REDERECORD">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715100000 -0300" stop="20200715114500 -0300" channel="REDERECORD">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715114500 -0300" stop="20200715115000 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200715115000 -0300" stop="20200715151500 -0300" channel="REDERECORD">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200715151500 -0300" stop="20200715160000 -0300" channel="REDERECORD">
+    <title lang="pt">A Escrava Isaura</title>
+    <date>2004</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715160000 -0300" stop="20200715164000 -0300" channel="REDERECORD">
+    <title lang="pt">Os Mutantes</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715164000 -0300" stop="20200715164500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200715164500 -0300" stop="20200715175500 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715175500 -0300" stop="20200715180000 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record 24h</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200715180000 -0300" stop="20200715185000 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715185000 -0300" stop="20200715194500 -0300" channel="REDERECORD">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715194500 -0300" stop="20200715204500 -0300" channel="REDERECORD">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715204500 -0300" stop="20200715213000 -0300" channel="REDERECORD">
+    <title lang="pt">Apocalipse</title>
+    <desc lang="pt">Uma emocionante história que mistura amor, mistério e redenção ao retratar um dos enredos mais polêmicos da Bíblia: o fim dos tempos.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715213000 -0300" stop="20200715223000 -0300" channel="REDERECORD">
+    <title lang="pt">Jesus</title>
+    <desc lang="pt">A trama irá mostrar a vida e época de Jesus como se estivéssemos lá, no momento em que Ele andava pela Terra.(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715223000 -0300" stop="20200715234500 -0300" channel="REDERECORD">
+    <title lang="pt">Top Chef Brasil</title>
+    <sub-title lang="pt">S2</sub-title>
+    <desc lang="pt">Sob comando de Felipe Bronze, a atração vai mostrar 14 chefs profissionais disputando o prêmio de R$ 300 mil. Ao lado do apresentador, o chef Emmanuel Bassoleil e a crítica de gastronomia Ailin Aleixo vão julgar o trabalho.(n)</desc>
+    <date>2020</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715234500 -0300" stop="20200716003000 -0300" channel="REDERECORD">
+    <title lang="pt">Chicago Med</title>
+    <desc lang="pt">A série acompanha o dia-a-dia de um grupo de médicos e enfermeiros de um hospital de Chicago. Entre eles, a Dra. Hannah Tremble, uma fria e brilhante cirurgiã; a diretora Sharon Goodwin.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200710000000 -0300" stop="20200710004000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Análises, entrevistas e matérias especiais aprofundam os temas mais importantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710004000 -0300" stop="20200710004500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200710004500 -0300" stop="20200710014000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">O Melhor da NBA</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20200710014000 -0300" stop="20200710022500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Justiça Implacável</title>
+    <desc lang="pt">Elijah Kane é o líder de um grupo de agentes especiais da polícia, encarregado que tirar de circulação os principais criminosos de Seatle. Mesmo com métodos nem sempre usuais.(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200710022500 -0300" stop="20200710024000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200710024000 -0300" stop="20200710050000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Band</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710050000 -0300" stop="20200710060000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">1º Jornal</title>
+    <desc lang="pt">Um resumo dos fatos de ontem que vão influenciar o novo dia. A antecipação do que se espera desse novo dia, preparando o telespectador para o que vem pela frente.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200710060000 -0300" stop="20200710080000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Notícias da Redação</title>
+    <desc lang="pt">Os principais destaques dos noticiários com muita interatividade e prestação de serviço, com a credibilidade do jornalismo da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200710080000 -0300" stop="20200710090000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710090000 -0300" stop="20200710110000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Aqui na BAND</title>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710110000 -0300" stop="20200710123000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710123000 -0300" stop="20200710130000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Debate</sub-title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200710130000 -0300" stop="20200710140000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710140000 -0300" stop="20200710150000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710150000 -0300" stop="20200710160000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710160000 -0300" stop="20200710185000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710185000 -0300" stop="20200710192000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710192000 -0300" stop="20200710202000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200710202000 -0300" stop="20200710211000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Ouro Verde</title>
+    <desc lang="pt">Após seus pais serem assassinados, Zé Maria foge para o Brasil e assume uma nova identidade. Anos depois, como Jorge Monforte, dono do império Ouro Verde, ele decide voltar para casa e vingar sua família.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Portugal</country>
+  </programme>
+  <programme start="20200710211000 -0300" stop="20200710215700 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200710215700 -0300" stop="20200710220000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200710220000 -0300" stop="20200710224500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Notícias</title>
+    <desc lang="pt">Programa jornalístico com opinião e foco nos principais temas do dia, complementando os noticiários da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200710224500 -0300" stop="20200711002000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Música Na Band: Zezé Di Camargo e Luciano</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">A diversidade musical brasileira tem seu espaço assegurado na programação nobre da Band. Um desfile semanal de grandes nomes, com  estilos múltiplos e de grande popularidade.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711002000 -0300" stop="20200711005500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Análises, entrevistas e matérias especiais aprofundam os temas mais importantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711005500 -0300" stop="20200711010000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200711010000 -0300" stop="20200711015000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Justiça Implacável</title>
+    <desc lang="pt">Elijah Kane é o líder de um grupo de agentes especiais da polícia, encarregado que tirar de circulação os principais criminosos de Seatle. Mesmo com métodos nem sempre usuais.(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200711015000 -0300" stop="20200711024000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200711024000 -0300" stop="20200711034500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Band</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711034500 -0300" stop="20200711050000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Cine+ O Garoto de Liverpool</title>
+    <desc lang="pt">O filme conta a história do jovem John Lennon, sua infância e principalmente sua adolescência rebelde. A difícil relação com sua tia, que o criou, sua mãe ausente e o encontro com seus companheiros que formariam os Beatles.(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country lang="pt">Inglaterra</country>
+  </programme>
+  <programme start="20200711050000 -0300" stop="20200711080000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200711080000 -0300" stop="20200711083000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Kids</title>
+    <sub-title lang="pt">Tainá e os Guardiões da Amazônia</sub-title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial.(n)</desc>
+    <date>2019</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Programa</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711083000 -0300" stop="20200711090000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Kids</title>
+    <sub-title lang="pt">Rob, o Robô</sub-title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Programa</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711090000 -0300" stop="20200711093000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Kids</title>
+    <sub-title lang="pt">Pac-Man</sub-title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Programa</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711093000 -0300" stop="20200711100000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Kids</title>
+    <sub-title lang="pt">Super Onze</sub-title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20200711100000 -0300" stop="20200711103000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Kids</title>
+    <sub-title lang="pt">B-Daman Crossfire</sub-title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20200711103000 -0300" stop="20200711110000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20200711110000 -0300" stop="20200711113000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <desc lang="pt">O programa coloca na tela uma maratona de gols e lances memoráveis. Um espetáculo para os apaixonados por futebol, que amam rever partidas inesquecíveis, polêmicas e emocionantes.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20200711113000 -0300" stop="20200711120000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Capital Natural</title>
+    <desc lang="pt">Um debate que registra as mudanças que ocorrem na sociedade em direção ao desenvolvimento sustentável.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200711120000 -0300" stop="20200711123000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Nosso Agro</title>
+    <desc lang="pt">Informação, qualificação profissional e educação aos produtores rurais de todo o país, além de divulgar as ações do setor agropecuário para toda a sociedade brasileira.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711123000 -0300" stop="20200711124500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Verdade &amp; Vida</title>
+    <desc lang="pt">Um programa da Igreja Presbiteriana do Brasil dedicado à reflexão e à inspiração para a vida.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200711124500 -0300" stop="20200711141500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Sessão Livre: Os Meninos Voadores</title>
+    <desc lang="pt">Dois adolescentes curiosos embarcam clandestinamente em um avião, que será usado como parte de um plano perigoso arquitetado por mafiosos.(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200711141500 -0300" stop="20200711160000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Sessão Livre: As Tartarugas Ninja II: O Segredo de Ooze</title>
+    <desc lang="pt">As Tartarugas Ninja têm que voltar a enfrentar o vilão Shredder, que planeja usar o mesmo líquido verde usado para criá-las para produzir novos mutantes, que serão usados para atacar os humanos e a elas próprias.(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200711160000 -0300" stop="20200711185000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711185000 -0300" stop="20200711192000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711192000 -0300" stop="20200711202000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711202000 -0300" stop="20200711211000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Ouro Verde</title>
+    <desc lang="pt">Após seus pais serem assassinados, Zé Maria foge para o Brasil e assume uma nova identidade. Anos depois, como Jorge Monforte, dono do império Ouro Verde, ele decide voltar para casa e vingar sua família.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Portugal</country>
+  </programme>
+  <programme start="20200711211000 -0300" stop="20200711215700 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200711215700 -0300" stop="20200711220000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200711220000 -0300" stop="20200711223000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Documento Band</title>
+    <desc lang="pt">Séries de reportagens especiais produzidas pelo jornalismo da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200711223000 -0300" stop="20200711230000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Operação Implacável</title>
+    <desc lang="pt">Os agentes especiais Gerkhan e Jäger combatem o crime nas maiores estradas da Alemanha, arriscando suas vidas em perseguições de alta velocidade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20200711230000 -0300" stop="20200711234500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Law &amp; Order: Investigação Especial</title>
+    <desc lang="pt">Acompanhe as investigações da Unidade de Vítimas Especiais do Departamento de Polícia de NYC.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200711234500 -0300" stop="20200712013000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">SFT</title>
+    <sub-title lang="pt">Especial Melhores Lutas</sub-title>
+    <desc lang="pt">Faixa dedicada à transmissão de eventos de lutas, a cada semana apresenta uma nova modalidade, nesta edição, o MMA.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20200712013000 -0300" stop="20200712025000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Cine Privé: Prazer de Outro Mundo</title>
+    <desc lang="pt">Dois alienígenas vêm à Terra em busca do seu companheiro desaparecido, Kara, e descobrem que ela tem um intenso interesse no comportamento sexual humano.(n)</desc>
+    <date>1998</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200712025000 -0300" stop="20200712034500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200712034500 -0300" stop="20200712050000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Cinema Na Madrugada: Um Corpo Que Cai</title>
+    <desc lang="pt">John "Scottie" Ferguson é um detetive da polícia aposentado de São Francisco que sofre de acrofobia, e Madeleine é a dama que o leva a lugares altos.(n)</desc>
+    <date>1958</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200712050000 -0300" stop="20200712080000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200712080000 -0300" stop="20200712090000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Kids</title>
+    <sub-title lang="pt">Beyblade Burst</sub-title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial.(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+    <country lang="pt">Japão</country>
+  </programme>
+  <programme start="20200712090000 -0300" stop="20200712100000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Kids</title>
+    <sub-title lang="pt">Super Onze</sub-title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20200712100000 -0300" stop="20200712103000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Kids</title>
+    <sub-title lang="pt">B-Daman Crossfire</sub-title>
+    <desc lang="pt">Faixa dedicada à aventura e diversão com exibição de destacadas produções animadas da tv mundial.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20200712103000 -0300" stop="20200712111500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Mundo Animado</title>
+    <sub-title lang="pt">Changeman</sub-title>
+    <desc lang="pt">Cinco jovens militares são presenteados com poderes para salvar a Terra do império galáctico de Gôzma.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20200712111500 -0300" stop="20200712120000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Mundo Animado</title>
+    <sub-title lang="pt">Jiraiya</sub-title>
+    <desc lang="pt">Jiraiya é um guerreiro ninja que foi treinado para enfrentar o maligno clã da Família de Feiticeiros.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20200712120000 -0300" stop="20200712123000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Mundo Animado</title>
+    <sub-title lang="pt">Jaspion</sub-title>
+    <desc lang="pt">Acompanhe as aventuras de Jaspion, um guerreiro celestial com o poder de derrotar o universo das forças do mal.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20200712123000 -0300" stop="20200712143000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Planeta Selvagem</title>
+    <desc lang="pt">A produção da BBC faz um retrato das paisagens mais perigosas do nosso mundo, mostrando viagens extraordinárias pelas regiões mais selvagens do nosso planeta.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712143000 -0300" stop="20200712160000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Revista semanal de todos os esportes, com reportagens, entrevistas, quadros, colunas , pesquisas e bom humor.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712160000 -0300" stop="20200712180000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Você Torceu Aqui</title>
+    <sub-title lang="pt">Cruzeiro x São Paulo</sub-title>
+    <desc lang="pt">Copa do Brasil 2000.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712180000 -0300" stop="20200712193000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">3º Tempo</title>
+    <desc lang="pt">Um dos mais tradicionais programas esportivos do domingo na TV. Com reportagens nos gramados, nos vestiários e muita opinião sobre os lances polêmicos e o rumo dos campeonatos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200712193000 -0300" stop="20200712210000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Domingo No Cinema: Northmen: A Saga Viking</title>
+    <desc lang="pt">Um grupo de vikings naufraga e tem que lutar contra mercenários depois de sequestrar a filha de um rei escocês.(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Grã-Bretanha</country>
+  </programme>
+  <programme start="20200712210000 -0300" stop="20200712223000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Sessão Especial: Turbo Kid</title>
+    <desc lang="pt">Um adolescente é fascinado por quadrinhos de super-heróis, e vive no mundo da imaginação. Um dia, ele conhece uma garota que também adora HQs, e os dois decidem partir em uma verdadeira missão.(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">Canadá/Nova Zelândia/EUA</country>
+  </programme>
+  <programme start="20200712223000 -0300" stop="20200713000000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Cine Ação: Malone: Puxando O Gatilho</title>
+    <desc lang="pt">Malone é um ex-detetive particular, do tipo durão, que se torna um matador de aluguel depois de assistir ao assassinato de sua mulher, seu filho e seu irmão.(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200713000000 -0300" stop="20200713010000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713010000 -0300" stop="20200713014500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Show Business</title>
+    <desc lang="pt">Entrevistas com personalidades do mundo empresarial, politico e cultural. Com foco principal na economia, nos negócios e na administração pública.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713014500 -0300" stop="20200713021500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713021500 -0300" stop="20200713050000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Cinema Na Madrugada: Em Algum Lugar do Passado</title>
+    <desc lang="pt">Na noite de estreia de sua peça, um jovem escritor se depara com uma senhora misteriosa que desesperadamente pede para que ele volte para ela. Após alguns anos, ele descobre que ela foi uma conceituada atriz do início do século.(n)</desc>
+    <date>1980</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200713050000 -0300" stop="20200713060000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">1º Jornal</title>
+    <desc lang="pt">Um resumo dos fatos de ontem que vão influenciar o novo dia. A antecipação do que se espera desse novo dia, preparando o telespectador para o que vem pela frente.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713060000 -0300" stop="20200713080000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Notícias da Redação</title>
+    <desc lang="pt">Os principais destaques dos noticiários com muita interatividade e prestação de serviço, com a credibilidade do jornalismo da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713080000 -0300" stop="20200713090000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713090000 -0300" stop="20200713110000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Aqui na BAND</title>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713110000 -0300" stop="20200713123000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713123000 -0300" stop="20200713130000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Debate</sub-title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200713130000 -0300" stop="20200713140000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713140000 -0300" stop="20200713150000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713150000 -0300" stop="20200713160000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713160000 -0300" stop="20200713185000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713185000 -0300" stop="20200713192000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713192000 -0300" stop="20200713202000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200713202000 -0300" stop="20200713211000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Ouro Verde</title>
+    <desc lang="pt">Após seus pais serem assassinados, Zé Maria foge para o Brasil e assume uma nova identidade. Anos depois, como Jorge Monforte, dono do império Ouro Verde, ele decide voltar para casa e vingar sua família.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Portugal</country>
+  </programme>
+  <programme start="20200713211000 -0300" stop="20200713215700 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200713215700 -0300" stop="20200713220000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200713220000 -0300" stop="20200713224500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Notícias</title>
+    <desc lang="pt">Programa jornalístico com opinião e foco nos principais temas do dia, complementando os noticiários da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200713224500 -0300" stop="20200713234000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Toda semana um casal tem a missão de sobreviver por 21 dias largado sem comida, sem água e sem roupas em um ambiente selvagem.(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200713234000 -0300" stop="20200714001500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Análises, entrevistas e matérias especiais aprofundam os temas mais importantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714001500 -0300" stop="20200714002000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200714002000 -0300" stop="20200714011500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20200714011500 -0300" stop="20200714020000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Justiça Implacável</title>
+    <desc lang="pt">Elijah Kane é o líder de um grupo de agentes especiais da polícia, encarregado que tirar de circulação os principais criminosos de Seatle. Mesmo com métodos nem sempre usuais.(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200714020000 -0300" stop="20200714024000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200714024000 -0300" stop="20200714050000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Band</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714050000 -0300" stop="20200714060000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">1º Jornal</title>
+    <desc lang="pt">Um resumo dos fatos de ontem que vão influenciar o novo dia. A antecipação do que se espera desse novo dia, preparando o telespectador para o que vem pela frente.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200714060000 -0300" stop="20200714080000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Notícias da Redação</title>
+    <desc lang="pt">Os principais destaques dos noticiários com muita interatividade e prestação de serviço, com a credibilidade do jornalismo da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200714080000 -0300" stop="20200714090000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714090000 -0300" stop="20200714110000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Aqui na BAND</title>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714110000 -0300" stop="20200714123000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714123000 -0300" stop="20200714130000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Debate</sub-title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200714130000 -0300" stop="20200714140000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714140000 -0300" stop="20200714150000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714150000 -0300" stop="20200714160000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714160000 -0300" stop="20200714185000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714185000 -0300" stop="20200714192000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714192000 -0300" stop="20200714202000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200714202000 -0300" stop="20200714211000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Ouro Verde</title>
+    <desc lang="pt">Após seus pais serem assassinados, Zé Maria foge para o Brasil e assume uma nova identidade. Anos depois, como Jorge Monforte, dono do império Ouro Verde, ele decide voltar para casa e vingar sua família.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Portugal</country>
+  </programme>
+  <programme start="20200714211000 -0300" stop="20200714215700 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200714215700 -0300" stop="20200714220000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200714220000 -0300" stop="20200714224500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Notícias</title>
+    <desc lang="pt">Programa jornalístico com opinião e foco nos principais temas do dia, complementando os noticiários da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200714224500 -0300" stop="20200715010000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Masterchef Profissionais</title>
+    <desc lang="pt">Acompanhe a versão brasileira do mais famoso reality show de culinária do planeta.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715010000 -0300" stop="20200715013500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Análises, entrevistas e matérias especiais aprofundam os temas mais importantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715013500 -0300" stop="20200715014000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200715014000 -0300" stop="20200715023000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Justiça Implacável</title>
+    <desc lang="pt">Elijah Kane é o líder de um grupo de agentes especiais da polícia, encarregado que tirar de circulação os principais criminosos de Seatle. Mesmo com métodos nem sempre usuais.(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+    <country lang="pt">EUA</country>
+  </programme>
+  <programme start="20200715023000 -0300" stop="20200715024000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200715024000 -0300" stop="20200715050000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Band</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715050000 -0300" stop="20200715060000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">1º Jornal</title>
+    <desc lang="pt">Um resumo dos fatos de ontem que vão influenciar o novo dia. A antecipação do que se espera desse novo dia, preparando o telespectador para o que vem pela frente.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200715060000 -0300" stop="20200715080000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Notícias da Redação</title>
+    <desc lang="pt">Os principais destaques dos noticiários com muita interatividade e prestação de serviço, com a credibilidade do jornalismo da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200715080000 -0300" stop="20200715090000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715090000 -0300" stop="20200715110000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Aqui na BAND</title>
+    <date>2019</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715110000 -0300" stop="20200715123000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715123000 -0300" stop="20200715130000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Debate</sub-title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20200715130000 -0300" stop="20200715140000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Os Donos da Bola</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715140000 -0300" stop="20200715150000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715150000 -0300" stop="20200715160000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715160000 -0300" stop="20200715185000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715185000 -0300" stop="20200715192000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715192000 -0300" stop="20200715202000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country lang="pt">Brasil</country>
+  </programme>
+  <programme start="20200715202000 -0300" stop="20200715211000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Ouro Verde</title>
+    <desc lang="pt">Após seus pais serem assassinados, Zé Maria foge para o Brasil e assume uma nova identidade. Anos depois, como Jorge Monforte, dono do império Ouro Verde, ele decide voltar para casa e vingar sua família.(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country lang="pt">Portugal</country>
+  </programme>
+  <programme start="20200715211000 -0300" stop="20200715215700 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200715215700 -0300" stop="20200715220000 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20200715220000 -0300" stop="20200715224500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Band Notícias</title>
+    <desc lang="pt">Programa jornalístico com opinião e foco nos principais temas do dia, complementando os noticiários da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20200715224500 -0300" stop="20200716005500 -0300" channel="BANDEIRANTES">
+    <title lang="pt">Cine Clube: Robin Hood, O Príncipe dos Ladrões</title>
+    <desc lang="pt">Após voltar de uma Cruzada,  o jovem cavaleiro Robin de Locksley descobre que seu pai, Lorde de Locksley , foi morto pelos seguidores do xerife de Nottingham, que por sua vez é partidário do Príncipe João.(n)</desc>
+    <date>1991</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country lang="pt">EUA</country>
+  </programme>
+</tv>

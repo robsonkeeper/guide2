@@ -1,0 +1,606 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V3.1.0.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 23/07/2020 00:30:36
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: C:\Users\Robson\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
+[  Info  ] Checking License ..
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[  Debug ] 
+[  Info  ] found: C:\Users\Robson\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\tvplus.com.br.E.ini -- Revision 09
+[  Info  ] encrypted in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\Robson\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\clarotv.com.br.EK.ini -- Revision 02
+[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\Robson\AppData\Local\WebGrab+Plus\lineup.net.br.ini -- Revision 03
+[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\Robson\AppData\Local\WebGrab+Plus\siteini.pack\Brazil\netcombo.com.br.ini -- Revision 01
+[  Info  ] input file C:\Users\Robson\AppData\Local\WebGrab+Plus\guide.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 177 - out of - 177 - channels for 17 day(s)
+[  Debug ] 
+[  Info  ] (   1/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=BANDSPORTS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=COMBATE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=ESPN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=ESPN+) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=ESPNBRASIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=ESPNEXTRAHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FISHTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FOXSPORTS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FOXSPORTS2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=OFFHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PREMIERE2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PREMIERE3) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PREMIERE4) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PREMIERE5) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PREMIERE6) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PREMIERE7) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  17/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PREMIERE8) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  18/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PREMIERECLUBES) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  19/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=SPORTV) -- mode Force
+[  Debug ]    skipped negative show time! at 28/07/2020 12:30:00
+[  Debug ]    skipped negative show time! at 28/07/2020 12:30:00
+[  Debug ]    skipped negative show time! at 28/07/2020 12:30:00
+[  Debug ]    skipped negative show time! at 01/08/2020 12:30:00
+[  Debug ]    skipped negative show time! at 01/08/2020 12:30:00
+[  Debug ]    skipped negative show time! at 01/08/2020 12:30:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  20/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=SPORTV2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  21/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=SPORTV3) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  22/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=WOOHOO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  23/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=HBO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  24/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=HBO2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  25/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=HBOFAMILY) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  26/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=MAX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  27/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=HBOPLUS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  28/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=MAXUP) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  29/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=HBOSIGNATURE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  30/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=MAXPRIMEHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  31/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TELECINEACTION) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  32/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TELECINECULT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TELECINEFUN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TELECINEPIPOCA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TELECINEPREMIUM) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TELECINETOUCH) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=GLOBONEWS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  38/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CNNBRASIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  39/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=RECORDNEWS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  40/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=BANDNEWS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  41/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=BBCWORLD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  42/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=BLOOMBERG) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  43/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DEUTSCHEWELLE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  44/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=NHK) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  45/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=RAI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  46/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=SIC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  47/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TV5MONDE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  48/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVESPANHA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  49/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CGTN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CNNI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  51/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CNNE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  52/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=BIS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=MTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  54/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=MTVLIVEHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  55/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=MULTISHOW) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=MUSICBOXBRAZIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PLAYTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  58/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=VH1HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  59/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=VH1MEGAHITS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  60/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TRACEBrazuca) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  61/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVSENADO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  62/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVBRASIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  63/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVBRASIL2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  64/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVCMARA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  65/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVJUSTIA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  66/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVESCOLA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  67/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=ASSEMBLEIALEGISLATIVA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  68/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CANALCOMUNITARIO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  69/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CANONOVA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  70/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=REDEVIDA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  71/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=APARECIDA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  72/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PAIETERNO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  73/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=RITTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  74/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=BOAVONTADETV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  75/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVNOVOTEMPO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  76/177 ) CLAROTV.COM.BR.EK -- chan. (xmltv_id=SBN) -- mode Force
+[Error   ] Unable to update channel SBN
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from SBN
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] (  76/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TERRAVIVA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  77/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CANALDOBOI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  78/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CANALRURAL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  79/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=AGROMAIS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  80/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=UNIVERSAL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  81/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FOX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  82/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=WARNER) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  83/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=SONY) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  84/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  85/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=AXN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  86/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TBS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  87/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=COMEDYCENTRAL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  88/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=AE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  89/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=LIV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  90/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=SYFY) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  91/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=LIFETIME) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  92/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TNTSERIES) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  93/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FOXLIFE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  94/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=AMC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  95/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CANALBRASIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  96/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TNT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  97/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=MEGAPIX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  98/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=SPACE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  99/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CINEMAX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 100/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PRIMEBOXBRAZIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 101/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=STUDIOUNIVERSAL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 102/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=PARAMOUNT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 103/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=EUROCHANNEL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 104/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FILMARTS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 105/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FOXPREMIUM1HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 106/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FOXPREMIUM2HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 107/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TCM) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 108/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=HGTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 109/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DISCOVERYHH) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 110/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=GNT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 111/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=VIVA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 112/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=GLOBOSATHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 113/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=E) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 114/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TRAVELANDLIVINGCHANNEL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 115/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=ARTE1) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 116/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=NATIONALGEOGRAPHIC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 117/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DISCOVERYCHANNEL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 118/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=ANIMALPLANET) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 119/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CURTA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 120/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FUTURA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 121/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=LIKEHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 122/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FASHIONTV) -- mode Force
+[  Debug ]    skipped negative show time! at 01/08/2020 00:30:00
+[  Debug ]    skipped negative show time! at 07/08/2020 00:30:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 123/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=FOODNETWORKHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 124/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TRAVELBOXBRAZIL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 125/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DISCOVERYTURBO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 126/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DISCOVERYSCIENCE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 127/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=THEHISTORYCHANNEL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 128/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=LOVENATUREHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 129/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=NATGEOWILDHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 130/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DISCOVERYTHEATERHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 131/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DISCOVERYWORLD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 132/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=H2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 133/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=SMITHSONIANHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 134/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DOGTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 135/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=MegaTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 136/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=Shoptime) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 137/177 ) LINEUP.NET.BR -- chan. (xmltv_id=Polishop) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 138/177 ) LINEUP.NET.BR -- chan. (xmltv_id=Rede21) -- mode Force
+[  Debug ]    skipped negative show time! at 23/07/2020 05:00:00
+[  Debug ]    skipped negative show time! at 23/07/2020 05:00:00
+[  Debug ]    skipped negative show time! at 23/07/2020 05:00:00
+[  Debug ]    skipped negative show time! at 23/07/2020 05:00:00
+[  Debug ]    skipped negative show time! at 23/07/2020 05:00:00
+[  Debug ]    skipped negative show time! at 23/07/2020 05:00:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 139/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVWA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 140/177 ) LINEUP.NET.BR -- chan. (xmltv_id=TVTHD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 141/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=GLOOB) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 142/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DISNEY) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 143/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=NICKELODEON) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 144/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=CARTOONNETWORK) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 145/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=BOOMERANG) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 146/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVRTIMBUM) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 147/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=NATGEOKIDS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 148/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=ZOOMOO) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 149/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DISNEYJUNIOR) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 150/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=BABYTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 151/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DISCOVERYKIDS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 152/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=DISNEYXD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 153/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=NICKJR) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 154/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TOONCAST) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 155/177 ) LINEUP.NET.BR -- chan. (xmltv_id=Canal Claro) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 156/177 ) LINEUP.NET.BR -- chan. (xmltv_id=NET) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 157/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=NOW) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 158/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=NETTV) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       NETTV
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 159/177 ) NETCOMBO.COM.BR -- chan. (xmltv_id=NETTV3) -- mode Force
+[Error   ] Unable to update channel NETTV3
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from NETTV3
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] ( 159/177 ) LINEUP.NET.BR -- chan. (xmltv_id=Venus) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 160/177 ) LINEUP.NET.BR -- chan. (xmltv_id=Sextreme) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 161/177 ) LINEUP.NET.BR -- chan. (xmltv_id=SexyHot) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 162/177 ) LINEUP.NET.BR -- chan. (xmltv_id=PlayboyTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 163/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=GLOBOSP) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 164/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=SBT) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 165/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=REDERECORD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 166/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=REDETV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 167/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=BANDEIRANTES) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 168/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVGAZETA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 169/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=TVCULTURA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 170/177 ) LINEUP.NET.BR -- chan. (xmltv_id=BandRio) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 171/177 ) TVPLUS.COM.BR.E -- chan. (xmltv_id=GloboRj) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 172/177 ) LINEUP.NET.BR -- chan. (xmltv_id=RecordTVRio) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 173/177 ) LINEUP.NET.BR -- chan. (xmltv_id=RedeTVRio) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 174/177 ) LINEUP.NET.BR -- chan. (xmltv_id=SBTRio) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 175/177 ) LINEUP.NET.BR -- chan. (xmltv_id=TVMax) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 91590 shows in 177 channels
+[  Debug ] 0 updated shows
+[  Debug ] 91590 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 23/07/2020 02:42:44 done in 2h 12m 8s
